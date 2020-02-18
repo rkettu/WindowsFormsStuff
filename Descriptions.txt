@@ -1,0 +1,7 @@
+Couple of Windows Forms programs made in Visual Studio I thought were worth showing
+
+DiceGame:
+	Simple "game" where you can add players, roll dice and save the score.
+
+ArduinoPlotter:
+	Reading serial data in a thread and updating a graph to reflect it.

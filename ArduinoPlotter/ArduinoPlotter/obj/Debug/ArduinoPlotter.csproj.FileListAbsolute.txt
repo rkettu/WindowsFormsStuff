@@ -1,0 +1,10 @@
+C:\Users\roope\source\repos\ArduinoPlotter\ArduinoPlotter\bin\Debug\ArduinoPlotter.exe.config
+C:\Users\roope\source\repos\ArduinoPlotter\ArduinoPlotter\bin\Debug\ArduinoPlotter.exe
+C:\Users\roope\source\repos\ArduinoPlotter\ArduinoPlotter\bin\Debug\ArduinoPlotter.pdb
+C:\Users\roope\source\repos\ArduinoPlotter\ArduinoPlotter\obj\Debug\ArduinoPlotter.csprojAssemblyReference.cache
+C:\Users\roope\source\repos\ArduinoPlotter\ArduinoPlotter\obj\Debug\ArduinoPlotter.Form1.resources
+C:\Users\roope\source\repos\ArduinoPlotter\ArduinoPlotter\obj\Debug\ArduinoPlotter.Properties.Resources.resources
+C:\Users\roope\source\repos\ArduinoPlotter\ArduinoPlotter\obj\Debug\ArduinoPlotter.csproj.GenerateResource.cache
+C:\Users\roope\source\repos\ArduinoPlotter\ArduinoPlotter\obj\Debug\ArduinoPlotter.csproj.CoreCompileInputs.cache
+C:\Users\roope\source\repos\ArduinoPlotter\ArduinoPlotter\obj\Debug\ArduinoPlotter.exe
+C:\Users\roope\source\repos\ArduinoPlotter\ArduinoPlotter\obj\Debug\ArduinoPlotter.pdb
